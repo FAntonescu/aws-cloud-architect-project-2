@@ -1,0 +1,13 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (Ohio),,Amazon Virtual Private Cloud (VPC),0,257.85,3094.20,USD,Number of NAT Gateways (1)
+My Estimate,US East (Ohio),,S3 Standard,0,115,1380.00,USD,S3 Standard storage (5000 GB per month)
+My Estimate,US East (Ohio),,Data Transfer,0,0,0.00,USD,"DT Inbound: Not selected (0 TB per month), DT Outbound: Amazon CloudFront (1 TB per month)"
+My Estimate,US East (Ohio),web servers,Amazon EC2,2023.56,176.63,4143.12,USD,"Operating system (Linux), Quantity (10), Pricing strategy (Compute Savings Plans 1 Year Partial Upfront), Storage amount (8 GB), Instance type (t4g.large)"
+My Estimate,US East (Ohio),application servers,Amazon EC2,0,715.37,8584.44,USD,"Operating system (Linux), Quantity (10), Pricing strategy (Compute Savings Plans 1 Year No Upfront), Storage amount (8 GB), Instance type (t4g.xlarge)"
+My Estimate,US East (Ohio),database,Amazon Aurora PostgreSQL-Compatible DB,40000,4215.85,90590.20,USD,"Storage amount (100 GB), Quantity (2), Instance type (db.r4.16xlarge), Pricing strategy (Reserved 1yr Partial Upfront)"
+My Estimate,US East (Ohio),load balancers,Application Load Balancer,0,811.52,9738.24,USD,Number of Application Load Balancers (2)
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."

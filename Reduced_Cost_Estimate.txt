@@ -1,0 +1,3 @@
+In order to decrease the monthly cost, I chose to reduce the instance type of the EC2 instances running the application servers to t4g.xlarge with 4 vCPU and 16 GiB memory instead of 8 vCPU and 32GiB memory as in the initial estimation. In addition I switch the pricing strategy from Standard reserved instances to Compute Saving Plans with one year reservation.
+
+These changes have as effect reducing the monthly cost from $8200 to $6300.
