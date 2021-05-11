@@ -39,3 +39,18 @@ The file Udacity_Diagram_2.pdf contains the exported LucidChart diagram for a SE
 The initial estimation is stored in the file Initial_Cost_Estimate.csv 
 The reduced estimate has been exported to the file Reduced_Cost_Estimate.csv and it is accompanied by the file Reduced_Cost_Estimate.txt
 The increased estimate has been exorted in the file Increased_Cost Estimate.csv and it is accompanied by the file Increased_Cost Estimate.txt.
+
+## Task 5 : Use Terraform to Provision AWS Infrastructure
+
+### Part 1
+
+- provision 6 EC2 instances
+- destroy the two large instances
+
+### Part 2
+
+deploy an AWS Lambda Function using Terraform including the IAM policies 
+
+## Task 6: Destroy the Infrastructure using Terraform 
+
+terraform destroy
