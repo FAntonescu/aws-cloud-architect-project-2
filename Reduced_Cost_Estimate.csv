@@ -1,11 +1,11 @@
 ﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
-My Estimate,US East (Ohio),,Amazon Virtual Private Cloud (VPC),0,257.85,3094.20,USD,Number of NAT Gateways (1)
-My Estimate,US East (Ohio),,S3 Standard,0,115,1380.00,USD,S3 Standard storage (5000 GB per month)
-My Estimate,US East (Ohio),,Data Transfer,0,0,0.00,USD,"DT Inbound: Not selected (0 TB per month), DT Outbound: Amazon CloudFront (1 TB per month)"
-My Estimate,US East (Ohio),web servers,Amazon EC2,2023.56,176.63,4143.12,USD,"Operating system (Linux), Quantity (10), Pricing strategy (Compute Savings Plans 1 Year Partial Upfront), Storage amount (8 GB), Instance type (t4g.large)"
-My Estimate,US East (Ohio),application servers,Amazon EC2,0,715.37,8584.44,USD,"Operating system (Linux), Quantity (10), Pricing strategy (Compute Savings Plans 1 Year No Upfront), Storage amount (8 GB), Instance type (t4g.xlarge)"
-My Estimate,US East (Ohio),database,Amazon Aurora PostgreSQL-Compatible DB,40000,4215.85,90590.20,USD,"Storage amount (100 GB), Quantity (2), Instance type (db.r4.16xlarge), Pricing strategy (Reserved 1yr Partial Upfront)"
-My Estimate,US East (Ohio),load balancers,Application Load Balancer,0,811.52,9738.24,USD,Number of Application Load Balancers (2)
+My Estimate,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,257.85,3094.20,USD,Number of NAT Gateways (1)
+My Estimate,US East (N. Virginia),,S3 Standard,0,115,1380.00,USD,S3 Standard storage (5000 GB per month)
+My Estimate,US East (N. Virginia),,Data Transfer,0,0,0.00,USD,"DT Inbound: Not selected (0 TB per month), DT Outbound: Amazon CloudFront (1 TB per month)"
+My Estimate,US East (N. Virginia),web servers,Amazon EC2,1618.85,141.3,3314.45,USD,"Operating system (Linux), Quantity (8), Pricing strategy (Compute Savings Plans 1 Year Partial Upfront), Storage amount (8 GB), Instance type (t4g.large)"
+My Estimate,US East (N. Virginia),application servers,Amazon EC2,6468.38,551.8299999999999,13090.34,USD,"Operating system (Linux), Quantity (16), Pricing strategy (Compute Savings Plans 1 Year Partial Upfront), Storage amount (8 GB), Instance type (t4g.xlarge)"
+My Estimate,US East (N. Virginia),database,Amazon Aurora PostgreSQL-Compatible DB,0,4420.25,53043.00,USD,"Storage amount (100 GB), Quantity (2), Instance type (db.r4.8xlarge), Pricing strategy (Reserved 1yr No Upfront)"
+My Estimate,US East (N. Virginia),load balancers,Application Load Balancer,0,811.52,9738.24,USD,Number of Application Load Balancers (2)
 
 
 
